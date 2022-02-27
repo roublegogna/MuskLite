@@ -1,0 +1,5 @@
+def multi(a, n):
+    miltiply = a*n
+    return miltiply
+   
+multi(4, 5)
